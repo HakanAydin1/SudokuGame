@@ -1,0 +1,8 @@
+﻿  SudokuGame.cpp
+C:\Projects\Proje\SudokuGame\SudokuGame\SudokuGame.cpp(345,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Projects\Proje\SudokuGame\SudokuGame\SudokuGame.cpp(406,25): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  SudokuGame.vcxproj -> C:\Projects\Proje\SudokuGame\x64\Debug\SudokuGame.exe
